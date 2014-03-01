@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/payment" android:title="강좌신청하기"></item>
+    <item android:id="@+id/preview" android:title="강좌미리보기"></item>
+    <item android:id="@+id/detail" android:title="자세한내용보기"></item>
+    
+
+</menu>

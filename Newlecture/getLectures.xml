@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectures>
+    <lecture>
+        <code>1</code>
+        <title>종성이는 종성</title>
+        <degree>밍경이</degree>
+        <price>100</price>
+        <image>dae.png</image>
+    </lecture>
+    <lecture>
+        <code>2</code>
+        <title>동서남북 플그래밍</title>
+        <degree>슈퍼유저</degree>
+        <price>100000000</price>
+        <image>superman.jpg</image>
+    </lecture>
+    <lecture>
+        <code>3</code>
+        <title>ABCD 프로그래밍</title>
+        <degree>초딩</degree>
+        <price>100</price>
+        <image>superman.jpg</image>
+    </lecture>
+   	<lecture>
+       	<code>4</code>
+       	<title>창</title>
+       	<degree>슈퍼</degree>
+       	<price>7777</price>
+       	<image>super.jpg</image>
+    </lecture>
+    <lecture>
+        <code>5</code>
+        <title>자바의 신</title>
+        <degree>입문</degree>
+        <price>21000</price>
+        <image>book.jpg</image>
+    </lecture>
+    <lectrue>
+    	<code>6</code>
+    	<title>가나다라마바사</title>  
+    	<degree>리리라라</degree>  
+    	<price>100000000</price>
+    	<image>zxc.jpg</image>    
+   	</lectrue>
+   	<lecture>
+        <code>7</code>
+        <title>마시멜로우 이야기</title>
+        <degree>배고파</degree>
+        <price>1994</price>
+        <image>maci.jpg</image>
+    </lecture>
+    <lecture>
+        <code>8 </code>
+        <title>어린왕자</title>
+        <degree>유저</degree>
+        <price>1999</price>
+        <image>price.jpg</image>
+    </lecture>
+    <lecture>
+        <code>9</code>
+        <title>Before you go to sleep</title>
+        <degree>번역서</degree>
+        <price>19500</price>
+        <image>before.jpg</image>
+    </lecture>
+   	
+</lectures>
